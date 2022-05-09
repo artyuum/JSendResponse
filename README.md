@@ -49,6 +49,9 @@ class AppController
 ## Changelog
 This library follows [semantic versioning](https://semver.org).
 
+* **1.1.0**
+  * Replaced "junker/symfony-jsend-response" (<= 0.3.1) in composer.json (thanks [@alexdmccabe](https://github.com/alexdmccabe))
+
 * **1.0.0**
   * The default HTTP status code when using JSendFailResponse is now 400.
   * The default HTTP status code when using JSendErrorResponse is now 500.
