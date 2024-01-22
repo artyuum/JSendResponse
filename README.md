@@ -1,7 +1,7 @@
 # JSendResponse
 JSendResponse component for [HttpFoundation](https://github.com/symfony/http-foundation) based applications (Symfony, Silex, Laravel, Drupal, etc.). It follows the [JSend](https://github.com/omniti-labs/jsend) specification, allowing you to give consistent JSON responses to your users.
 
-**Note**: This repository is a <ins>maintened</ins> fork of [Junker/JSendResponse](https://github.com/Junker/JSendResponse). See the [changelog](#changelog) for modification history.
+**Note**: This repository is a <ins>maintened</ins> fork of [Junker/JSendResponse](https://github.com/Junker/JSendResponse). See the [releases page](https://github.com/artyuum/JSendResponse/releases) for modification history.
 
 
 ## Requirements
